@@ -1,0 +1,23 @@
+{
+  "name": "zaoblako.edu",
+  "version": "1.0.0",
+  "description": "studying in nursery",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@tsconfig/node10": "^1.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxded/zaOblako.git"
+  },
+  "author": "Vasiliy Votintsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxded/zaOblako/issues"
+  },
+  "homepage": "https://github.com/fxded/zaOblako#readme"
+}
