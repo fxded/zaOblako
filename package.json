@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "studying in nursery",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@types/node": "^14.6.2"
+  },
   "devDependencies": {
     "@tsconfig/node10": "^1.0.7"
   },
